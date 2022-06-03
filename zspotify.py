@@ -2,7 +2,7 @@
 
 """
 zspotify
-SYSCONF¹⁶ fork of zspotify.
+A fork of jsavargas/zspotify.
 """
 
 import json
